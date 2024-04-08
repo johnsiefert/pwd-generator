@@ -41,10 +41,10 @@ button {
   display: flex;
   gap: 24px;
   text-align: center;
-  
+
 }
 
-.pwd-input {
+.pwd-input, .pwd-input-1{
   font-family: 'Roboto', sans-serif;
   background-color: #273549;
   color: #4adf86;
